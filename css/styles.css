@@ -1,5 +1,5 @@
 h1 {
-    color: greenyellow;
+    color: #ff0080;
 }
 
 .green-text {
@@ -16,4 +16,5 @@ p{
 
 img{
     width:200px;
+    height:200px;
 }
