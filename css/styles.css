@@ -14,8 +14,13 @@ p{
     border:1px solid blue;
 }
 
-.list-item{
+.pug1, .pug2, .melpic {
+    width:300px;
+    height:250px;
+}
 
+
+.list-item{
 font-size: 24px;
 padding:10px;
 text-align:center;
